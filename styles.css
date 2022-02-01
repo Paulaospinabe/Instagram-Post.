@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+}
+
+#contenedor {
+    background-color: white;
+    width: 420px;
+    height: 550px;
+    margin: auto;
+}
+
+#arriba {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 420px;
+    height: 45px;
+}
+
+
+
+#foto {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 420px;
+    height: 310px;
+}
+
+#img {
+    width: 420px;
+    height: 300px
+}
+
+
+#botones {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 420px;
+    height: 40px;
+}
+
+#info {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 420px;
+    height: 135px;
+}
+
+#texto {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 390px;
+    height: 120px;
+    
+}
+
+#bandera {
+    margin-left: 260px;
+}
+
+#puntos {
+    margin-left: 90%;
+    margin-top: 2%;
+}
